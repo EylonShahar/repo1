@@ -1,0 +1,4 @@
+void doAll()
+{
+	cout << "doAll";
+}
